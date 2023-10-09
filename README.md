@@ -1,1 +1,1 @@
-# -PHP-Challenge-20200916
+# PHP-Challenge-20200916
